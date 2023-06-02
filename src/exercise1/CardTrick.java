@@ -9,6 +9,7 @@ package exercise1;
  * @author Paul Bonenfant Jan 25, 2022 
  */
 public class CardTrick {
+	//printo info();
     
     public static void main(String[] args) {
         
